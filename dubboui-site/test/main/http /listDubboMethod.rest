@@ -1,0 +1,6 @@
+GET
+http://localhost:8080/listDubboMethod
+@Content-type: application/json
+{"className": "com.edianzu.mall.customer.service.CustomerService"}
+%%%
+# Error: Socket closed

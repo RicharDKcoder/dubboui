@@ -1,0 +1,5 @@
+GET
+http://localhost:8080/listDubboClass
+@Content-type: application/json
+%%%
+# Error: Socket closed
