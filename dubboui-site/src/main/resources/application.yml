@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: dubboui
+server:
+  port: 8080
+
+dubbo:
+  ui:
+    root:
+      path: /dubbo
+    zk_connect_str: 10.44.63.143:2181
